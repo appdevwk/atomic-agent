@@ -79,7 +79,7 @@
     "release:major": "bash scripts/release.sh major"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@modelcontextprotocol/sdk": "^1.32.1",
     "@mozilla/readability": "^0.6.0",
     "@types/marked": "^5.0.2",
     "better-sqlite3": "^12.9.0",
